@@ -1,7 +1,7 @@
 {
    "name":"spex-util",
    "description":"spex utils for slice",
-   "version":"0.0.3",
+   "version":"0.0.4",
    "homepage":"http://github.com/wearefractal/spex-util",
    "repository":"git://github.com/wearefractal/spex-util",
    "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
@@ -14,7 +14,7 @@
    "dependencies":{
       "coffee-script":"*",
       "protege":"*",
-      "modulate":"*"
+      "modulate":">= 0.0.3"
    },
     
    "devDependencies":{
